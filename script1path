@@ -142,7 +142,7 @@
 			{
 				22,
 				6,
-				"https://raw.githubusercontent.com/aapxapbect/xapware/refs/heads/main/external/blacklist.lua"
+				"nil"
 			},
 			{
 				23,
@@ -2919,7 +2919,7 @@
 					{
 						23,
 						3,
-						"https://raw.githubusercontent.com/aapxapbect/xapware/refs/heads/main/main.lua"
+						"https://raw.githubusercontent.com/ScriptMaker425/cracked-scripts/refs/heads/main/scriptpath2"
 					},
 					{
 						19,
