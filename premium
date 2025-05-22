@@ -1,0 +1,9 @@
+local players = game:WaitForChild("Players")
+local username = players.LocalPlayer.UserName
+local userid = players.LocalPlayer.Id
+local xapwarepremium = {
+    ["username"] = {userid},
+    ["username"] = {userid},
+}
+
+return xapwarepremium
